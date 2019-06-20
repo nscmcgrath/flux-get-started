@@ -1,0 +1,1 @@
+{"jobID":"b8239c1d-d2ec-efd5-3981-09a4d7e6381c","spec":{"type":"policy","cause":{"Message":"","User":"Colin McGrath \u003ccmcgrath@netskope.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
